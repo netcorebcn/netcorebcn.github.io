@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300);
+
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  flex: 1 100%;
+  font-weight: 100;
+  font-style: normal;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+.content {
+  position: relative;
+  height: 100vh;
+}
+
+.header-container {
+  height: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.title-image-container {
+  margin: 20px; 
+}
+
+.title-image {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.title-text {
+  position: relative;
+}
+
+.description {
+  margin: 20px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-item {
+  display: block;
+  width: 250px;
+  margin: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  text-decoration: none;
+  color: #000;
+  cursor: pointer;
+}
+
+.list-item-image-container {
+  margin-bottom: 10px; 
+}
+
+.list-item-image {
+  height: 100px;
+}
+
+.list-item-title {
+  font-weight: 300;
+}
