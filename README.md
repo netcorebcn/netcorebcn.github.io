@@ -3,12 +3,11 @@
 Would you like to participate as an speaker or as an sponsor?
 
 The Barcelona .NET Core Meetup group is a non profit but needs the help of both speakers and venues to organize events.
-Sponsors (companies) can provide space and other benefits but can not provide speakers from the company, if a company wants a setup like that...
 
-There are some basic rules:
+We are a community build for developers by developers, our focus is sharing knowledge between our colleagues and we love Open Source, wich  is why Sponsors (companies) can provide space and other benefits but can not provide speakers from the company on the same day. We believe that if you want to host a meetup and sell something related to your company, it is better if you host it on your own group. However, our hosts do have a change to give a small introduction about themselves at the beginning of the meetup.
 
-- English is our language
+This are the basic rules in our community:
+
+- We are a Barcelona community, but a good proportion of our members are not native Spanish speakers. This is why we prefer to host all our talks in English.
 - Sponsors, venues and companies can not provide speakers, speakers can work and promote a company but not the company that is hosting the meetup.
-Anyway sponsors can have some time to promote theirselves and do marketing before starting the meetup.
-
--
+- Sponsors do have the change to give a short time at the beginning of the meetup to talk about themselves, or whatever topic they see fit.
